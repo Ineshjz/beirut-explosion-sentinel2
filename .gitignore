@@ -1,0 +1,5 @@
+myCopernicusCredentials.py
+__pycache__/
+.ipynb_checkpoints/
+*.jp2
+*.zip
